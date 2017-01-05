@@ -1,3 +1,3 @@
 # 
 
-[http://introspection.stdplus.org/] (Project Page)
+[Project Page] (http://introspection.stdplus.org/)
