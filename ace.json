@@ -1,0 +1,11 @@
+{ "type" : "library" ,
+  "target" : "org.stdplus.introspection" ,
+  "name" : "org.stdplus.introspection",
+  "lflags" : [],
+  "dependencies" :
+  [
+      { "name" : "org.stdplus.posix",
+	"target" : "osx" },
+      { "name" : "com.thenewentity.stdplus" }
+  ],
+  "header-only" : false }
