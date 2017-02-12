@@ -4,5 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Stdplus is a name I came up with eons ago for my utility libraries.
+Introspection is a [stdplus](http://www.stdplus.org/) library for introspection of your code.
+
 

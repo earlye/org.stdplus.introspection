@@ -14,3 +14,5 @@ clean :
 .PHONY: .build
 .build : 
 	jekyll build --destination $@
+	rm $@/Makefile
+	rm $@/Readme.md
